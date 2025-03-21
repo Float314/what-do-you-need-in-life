@@ -1,0 +1,3 @@
+g++ main.cpp -o main -I"C:/raylib/raylib/src" -L"C:/raylib/raylib/src" -I"F:/float/raylib/project1/project1" -lstdc++ -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows -g
+g++ main.cpp -o main -I"C:/raylib/raylib/src" -L"C:/raylib/raylib/src"  -lstdc++ -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows 
+g++ main_alt.cpp -o main -I"C:/raylib/raylib/src" -L"C:/raylib/raylib/src"  -lstdc++ -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows 

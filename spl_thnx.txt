@@ -1,0 +1,17 @@
+
+
+-------------------------What do you need in your life?-----------------------------------------
+Made By - Float
+
+Special Thanks to - 
+    1. Microsoft Copilot [compiler issues]
+    2. Raylib Team
+    3. Visual Studio Code
+    4. Google Gemini [Code issues (That i cant debug for some reason)]
+
+Not special thanks to (The guys that made the things complicated)-
+    1. Visual Studio
+    2. MinGW
+    3. Copilot
+
+-----------------------------------------------------------------------------------------------

@@ -19,7 +19,7 @@
 
 */
 
-#include "C:/raylib/raylib/src/raylib.h"
+#include "raylib.h"
 #include <cmath>
 #include <iostream>
 #include <vector>

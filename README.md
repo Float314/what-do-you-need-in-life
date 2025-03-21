@@ -9,10 +9,10 @@ This thing doesn't need installation. Just extract the .zip file
 ### How to play?
 
 + Extract the .zip file
-+ Double click on the .exe file
++ Double-click on the .exe file
 + Start Playing!
 
-### Game rules 
+### Game Rules 
 
 You are the red ball. Dodge the other blue balls and try to avoid collision b/w you and the ground
 
@@ -28,5 +28,9 @@ The software for raylib is stated under the 'zlib' license.
 This software is provided "as-is", without any express or 
 implied warranty. In no event will the authors be held liable
 for any damages arising from the use of this software.
+
+Find and download the executable. Please consider donating
+if you like it! 
+Download link - https://float-223.itch.io/what-do-you-want-in-your-life
 
 ### Thank you!

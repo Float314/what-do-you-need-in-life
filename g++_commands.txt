@@ -1,3 +1,8 @@
+Exclusively to GCC/G++ compilers who do not recognize Visual Studio Code's Changes
 g++ main.cpp -o main -I"C:/raylib/raylib/src" -L"C:/raylib/raylib/src" -I"F:/float/raylib/project1/project1" -lstdc++ -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows -g
 g++ main.cpp -o main -I"C:/raylib/raylib/src" -L"C:/raylib/raylib/src"  -lstdc++ -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows 
-g++ main_alt.cpp -o main -I"C:/raylib/raylib/src" -L"C:/raylib/raylib/src"  -lstdc++ -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows 
+Ignore this - g++ main_alt.cpp -o main -I"C:/raylib/raylib/src" -L"C:/raylib/raylib/src"  -lstdc++ -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows 
+
+Alternatively, You can use this - g++ main.cpp -o main -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows 
+
+That's it!

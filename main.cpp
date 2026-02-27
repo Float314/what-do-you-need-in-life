@@ -172,7 +172,7 @@ int main(void)
             velocityY = jumpForce;
         }
 
-        // Canvas Start (Canvas is the window)
+        // Canvas Start 
         BeginDrawing();
 
         ClearBackground(RAYWHITE);
@@ -200,3 +200,4 @@ int main(void)
 
     return 0; // Self-explanatory
 }
+
